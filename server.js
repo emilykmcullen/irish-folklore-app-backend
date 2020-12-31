@@ -27,5 +27,9 @@ app.get('/', (req, res) => {
     res.json({ message: 'Welcome to irish folklore application.' });
   });
 
+app.get('/api/characters', (req, res) => {
+    res.json({ message: 'Welcome to irish folklore application.' });
+})
+
 const port = process.env.PORT || 3000
 app.listen(port, () => console.log('server started on port', port))
