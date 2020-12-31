@@ -12,7 +12,7 @@
             "romance": 2,
             "magic": 6,
             "strength": 1,
-            "spookniess": 3},
+            "spookiness": 3},
         "is_favourite": false
     },
     {   
@@ -28,7 +28,7 @@
             "romance": 6,
             "magic": 8,
             "strength": 5,
-            "spookniess": 3
+            "spookiness": 3
         }
     },
     {
@@ -45,7 +45,7 @@
         "romance": 8,
         "magic": 6,
         "strength": 1,
-        "spookniess": 3}
+        "spookiness": 3}
     },
     {   
         "region_key": "2345253",
@@ -59,7 +59,7 @@
         "romance": 3,
         "magic": 3,
         "strength": 3,
-        "spookniess": 9}
+        "spookiness": 9}
     
     
     },
@@ -75,7 +75,7 @@
         "romance":4 ,
         "magic": 6,
         "strength": 4,
-        "spookniess": 5}
+        "spookiness": 5}
     },
     {   
         "region_key": "2345251",
@@ -89,7 +89,7 @@
         "romance": 2,
         "magic": 7,
         "strength": 5,
-        "spookniess": 7}
+        "spookiness": 7}
     },
     {   
         "region_key": "1",
@@ -102,7 +102,7 @@
         "romance": 7,
         "magic": 7,
         "strength":6,
-        "spookniess": 3}
+        "spookiness": 3}
     },
     {   
         "region_key": "2",
@@ -115,7 +115,7 @@
         "romance": 2,
         "magic": 2 ,
         "strength":2 ,
-        "spookniess": 8}
+        "spookiness": 8}
     },
     {   
         "region_key": "2345250",
@@ -129,7 +129,7 @@
         "romance": 1,
         "magic": 5 ,
         "strength": 6,
-        "spookniess": 9}
+        "spookiness": 9}
     },
     {   
         "region_key": "2345271",
@@ -142,7 +142,7 @@
         "romance": 8,
         "magic": 8,
         "strength": 8,
-        "spookniess": 5}
+        "spookiness": 5}
     },
     {   
         "region_key": "2345266",
@@ -155,7 +155,7 @@
         "romance": 9,
         "magic": 8,
         "strength": 2,
-        "spookniess": 4}
+        "spookiness": 4}
     },
     {   
         "name": "Dullahan",
@@ -167,7 +167,7 @@
         "romance": 3 ,
         "magic": 6,
         "strength":3,
-        "spookniess": 10}
+        "spookiness": 10}
     },
     {   
         "region_key": "3",
@@ -180,7 +180,7 @@
         "romance": 7,
         "magic": 6,
         "strength":8 ,
-        "spookniess": 2}
+        "spookiness": 2}
     },
     {   
         "region_key": "4",
@@ -193,7 +193,7 @@
         "romance": 10,
         "magic": 2,
         "strength":10,
-        "spookniess": 1}
+        "spookiness": 1}
     },
     {   
         "region_key": "5",
@@ -206,7 +206,7 @@
         "romance": 5,
         "magic": 9,
         "strength": 8,
-        "spookniess": 9}
+        "spookiness": 9}
     },
     {   
         "region_key": "6",
@@ -219,7 +219,7 @@
         "romance": 10,
         "magic":8,
         "strength":1,
-        "spookniess": 1}
+        "spookiness": 1}
     },
     {   
         "region_key": "7",
@@ -232,7 +232,7 @@
         "romance": 6,
         "magic": 2,
         "strength": 10,
-        "spookniess": 1}
+        "spookiness": 1}
     },
     {   
         "region_key": "2345263",
@@ -245,7 +245,7 @@
         "romance": 1,
         "magic": 6,
         "strength":5,
-        "spookniess": 9}
+        "spookiness": 9}
     },
     {   
         "region_key": "2345265",
@@ -258,7 +258,7 @@
         "romance":7 ,
         "magic": 5,
         "strength": 8,
-        "spookniess": 3}
+        "spookiness": 3}
     },
     {   
         "region_key": "2345267",
@@ -271,7 +271,7 @@
         "romance": 5,
         "magic": 7,
         "strength": 5,
-        "spookniess": 3}
+        "spookiness": 3}
     },
     {   
         "region_key": "2345272",
@@ -284,7 +284,7 @@
         "romance": 2,
         "magic": 5,
         "strength":2 ,
-        "spookniess": 7}
+        "spookiness": 7}
     },
     {   
         "region_key": "2345273",
@@ -297,7 +297,7 @@
         "romance": 1,
         "magic": 3,
         "strength": 1,
-        "spookniess": 8}
+        "spookiness": 8}
     },
     {   
         "region_key": "2345249",
@@ -310,7 +310,7 @@
         "romance": 9,
         "magic": 8,
         "strength":5,
-        "spookniess": 2}
+        "spookiness": 2}
     },
     {   
         "region_key": "2345274",
@@ -323,7 +323,7 @@
         "romance": 8,
         "magic": 7,
         "strength":5,
-        "spookniess": 1}
+        "spookiness": 1}
     },
     {   
         "region_key": "2345257",
@@ -336,7 +336,7 @@
         "romance": 6,
         "magic": 7,
         "strength": 7,
-        "spookniess": 4}
+        "spookiness": 4}
     },
     {   
         "region_key": "2345258",
@@ -349,7 +349,7 @@
         "romance":2,
         "magic":1,
         "strength": 8,
-        "spookniess": 1}
+        "spookiness": 1}
     },
     {   
         "region_key": "2345260",
@@ -362,7 +362,7 @@
         "romance": 8,
         "magic": 9,
         "strength": 1,
-        "spookniess": 5}
+        "spookiness": 5}
     },
     {   
         "region_key": "2345270",
@@ -375,7 +375,7 @@
         "romance":3,
         "magic": 7,
         "strength":3,
-        "spookniess": 6}
+        "spookiness": 6}
     },
     {   
         "region_key": "2345261",
@@ -388,7 +388,7 @@
         "romance":6,
         "magic": 5,
         "strength": 5,
-        "spookniess": 3}
+        "spookiness": 3}
     },
     {   
         "region_key": "9",
@@ -401,7 +401,7 @@
         "romance":5,
         "magic":6,
         "strength":1,
-        "spookniess": 3}
+        "spookiness": 3}
     },
     {   
         "region_key": "2345268",
@@ -414,7 +414,7 @@
         "romance": 5,
         "magic": 5,
         "strength": 1,
-        "spookniess": 4}
+        "spookiness": 4}
     },
     {   
         "region_key": "2345269",
@@ -427,7 +427,7 @@
         "romance": 8,
         "magic": 6,
         "strength":7,
-        "spookniess": 1}
+        "spookiness": 1}
     },
     {   
         "region_key": "2345259",
@@ -440,7 +440,7 @@
         "romance": 1,
         "magic": 6,
         "strength": 1,
-        "spookniess": 7}
+        "spookiness": 7}
     },
     {
         "region_key": "2345262",
@@ -452,7 +452,7 @@
         "romance": 1,
         "magic": 5,
         "strength": 7,
-        "spookniess": 6}
+        "spookiness": 6}
         
     },
     {
@@ -465,7 +465,7 @@
         "romance": 5,
         "magic": 1,
         "strength": 7,
-        "spookniess": 6}
+        "spookiness": 6}
 
     } 
 ]
