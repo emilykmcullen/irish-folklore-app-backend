@@ -23,5 +23,9 @@ MongoClient.connect('mongodb://localhost:27017')
 // });
 
 
+app.get('/', (req, res) => {
+    res.json({ message: 'Welcome to irish folklore application.' });
+  });
+
 const port = process.env.PORT || 3000
 app.listen(port, () => console.log('server started on port', port))
